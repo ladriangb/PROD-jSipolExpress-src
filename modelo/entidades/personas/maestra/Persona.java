@@ -1,5 +1,3 @@
-
-
 package modelo.entidades.personas.maestra;
 
 import java.io.Serializable;

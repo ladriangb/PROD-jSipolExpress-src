@@ -15,7 +15,6 @@ import modelo.entidades.auditoria.AuditoriaBasica;
 import modelo.entidades.personas.maestra.Persona;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-import org.hibernate.proxy.pojo.javassist.JavassistProxyFactory;
 import org.openswing.swing.mdi.client.MDIFrame;
 
 /**
